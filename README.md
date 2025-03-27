@@ -2,4 +2,4 @@
 
 here is the callenges of forensics of the big challenge:
 - [math](https://github.com/bencheayoub/math)
-- [RapidGIF]()
+- [RapidGIF](https://github.com/bencheayoub/RapidGIF)
